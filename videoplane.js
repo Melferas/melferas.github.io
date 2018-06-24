@@ -10,7 +10,7 @@
 var renderer, scene, camera, mesh, card, fotos;
 var needsChange, counter;
 var folderUrl = 'textures/';
-var imgUrls = ['thats.jpg','the.jpg','look.jpg','its.jpg','tha.jpg','book.jpg','da.jpg','luke.jpg','of.jpg','love.jpg'];
+var imgUrls = ['thats.JPG','the.jpg','look.jpg','its.jpg','tha.jpg','book.jpg','da.jpg','luke.jpg','of.jpg','love.jpg'];
 
 
 function init() {
